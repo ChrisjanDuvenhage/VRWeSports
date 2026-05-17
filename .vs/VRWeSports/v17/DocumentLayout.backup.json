@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\GOG\\VRWeSports\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D030E9B5-33B7-7B89-9F5F-5E2AE93CE64D}|Assembly-CSharp.csproj|d:\\gog\\vrwesports\\assets\\scripts\\interacttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D030E9B5-33B7-7B89-9F5F-5E2AE93CE64D}|Assembly-CSharp.csproj|D:\\GOG\\VRWeSports\\assets\\scripts\\interacttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D030E9B5-33B7-7B89-9F5F-5E2AE93CE64D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interacttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D030E9B5-33B7-7B89-9F5F-5E2AE93CE64D}|Assembly-CSharp.csproj|d:\\gog\\vrwesports\\assets\\scripts\\cam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D030E9B5-33B7-7B89-9F5F-5E2AE93CE64D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D030E9B5-33B7-7B89-9F5F-5E2AE93CE64D}|Assembly-CSharp.csproj|D:\\GOG\\VRWeSports\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D030E9B5-33B7-7B89-9F5F-5E2AE93CE64D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D030E9B5-33B7-7B89-9F5F-5E2AE93CE64D}|Assembly-CSharp.csproj|D:\\GOG\\VRWeSports\\assets\\scripts\\playercam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D030E9B5-33B7-7B89-9F5F-5E2AE93CE64D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GOG\\VRWeSports\\Assets\\Scripts\\Cam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Cam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,20 +36,44 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\InteractTest.cs",
               "ToolTip": "D:\\GOG\\VRWeSports\\Assets\\Scripts\\InteractTest.cs",
               "RelativeToolTip": "Assets\\Scripts\\InteractTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T10:40:08.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerCam.cs",
+              "DocumentMoniker": "D:\\GOG\\VRWeSports\\Assets\\Scripts\\PlayerCam.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCam.cs",
+              "ToolTip": "D:\\GOG\\VRWeSports\\Assets\\Scripts\\PlayerCam.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T10:37:47.912Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\GOG\\VRWeSports\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\GOG\\VRWeSports\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T10:35:48.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Cam.cs",
               "DocumentMoniker": "D:\\GOG\\VRWeSports\\Assets\\Scripts\\Cam.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Cam.cs",
               "ToolTip": "D:\\GOG\\VRWeSports\\Assets\\Scripts\\Cam.cs",
               "RelativeToolTip": "Assets\\Scripts\\Cam.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T10:36:49.179Z",
               "EditorCaption": ""
