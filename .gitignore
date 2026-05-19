@@ -1,0 +1,67 @@
+# =========================================================================
+# Tydelike Unity-vouers (Hierdie veroorsaak die EBUSY-foute)
+# =========================================================================
+/[Lx]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ex]mportedObj/
+/[Mm]emoryCaptures/
+/[Mm]emoryProfiler/
+/[Pp]ackage[Ss]tore/
+
+# Unity-gebruikerskonfigurasie en -opstellings
+/[As]sets/AssetStoreTools*
+/[Vv]ersionControl/
+.plastic/
+
+# =========================================================================
+# IDE en Kodeskrywer spesifieke lêers (Visual Studio / VS Code)
+# =========================================================================
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider / IntelliJ
+.idea/
+*.sln.iml
+*.suo.iml
+
+# VS Code
+.vscode/
+
+# =========================================================================
+# Stelsel- en Bou-artifakte
+# =========================================================================
+# Windows-stelsellêers
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# MacOS-stelsellêers
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ontfoutings- en loglêers
+*.log
+*.crash
+CrashReport/
+
+# WebGL-bouvouers
+/[Aa]sset[Bb]undles/
+
+# =========================================================================
+# Groot media-bates (Opsioneel - haal die '#' weg as jy Git LFS gebruik)
+# =========================================================================
+# *.mp4
+# *.wav
+# *.mp3
+# *.fbx
+# *.obj
