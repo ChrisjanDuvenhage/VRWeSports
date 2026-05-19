@@ -1,0 +1,2 @@
+C:\Users\Chris\Collage\Game Studies 4\VR\Class\VRClass\VRClass\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Chris\Collage\Game Studies 4\VR\Class\VRClass\VRClass\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
