@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using UnityEngine;
 
-public class Door : MonoBehaviour
+public class Shutter : MonoBehaviour
 {
     public bool open;
     //public Vector3 openPosition;
